@@ -1,2 +1,3 @@
-# pull-shark-practice
-Learning GitHub Pull Requests
+## Learning GitHub Pull Requests
+
+This is my first Pull Request practice! 🦈
